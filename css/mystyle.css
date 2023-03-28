@@ -1,0 +1,15 @@
+.card-width{
+    max-width: 500px;
+}
+.bg-1{
+    background-image: linear-gradient(to top right, #00c3ff7e 0%, #7bff009d 100%);
+}
+.bg-2{
+    background-image: linear-gradient(to top right, #00e1ff59 0%, #907dffbb 50%, #ffc4006c 100%);
+}
+.h1-width{
+    max-width: 700px;
+}
+.input-width{
+    max-width: 110px;
+}
